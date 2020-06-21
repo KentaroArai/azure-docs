@@ -31,7 +31,7 @@ This document will cover:
 
 * Azure Active Directory (AAD) - Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your employees sign in and access resources
 
-* Role Definition - A role definition is a collection of permissions.  AAD has standard roles (Owner, Contributor, or Reader) that contain levels of permissions to perform operations like read, write, and delete on an Azure resource. Roles can also be custom definitions created by users with specific granular permissions.
+* Role Definition - A role definition is a collection of permissions.  AAD has standard roles (Owner, Contributor, or Reader) that contain levels of permissions to perform operations like read, write, and delete on an Azure resource. Roles can also be difined by users with specific granular permissions.
 
 * Application Registration - When you register an Azure AD application, two objects are created in your Azure AD tenant, an application object and a service principal object. Consider the application object as the global representation of your application for use across all tenants, and the service principal as the local representation for use in a specific tenant.
 
